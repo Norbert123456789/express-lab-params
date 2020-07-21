@@ -6,7 +6,7 @@
 # Setup
 1. Initialize your node modules by running `npm init`. Create a server file named `server.js`. Be sure you set the `entry point` property in `package.json` to the name of your server file.
 
-2. Install express `npm install --save express`. Check your files. Hint: You can check to make sure your installation was successful in one of the following places:
+2. Install express `npm install express`. Check your files. Hint: You can check to make sure your installation was successful in one of the following places:
 - Your `package.json` file should have `express` listed in the dependencies.
 - You could also check in your `node_modules` folder to see an`express` folder.
 
